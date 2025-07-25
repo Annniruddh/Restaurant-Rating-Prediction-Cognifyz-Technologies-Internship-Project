@@ -8,7 +8,6 @@ Internship Project | Cognifyz Technologies | Data Science
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Model-orange?logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Deployed%20on-Streamlit-brightgreen?logo=streamlit)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
 
 ## Overview
 This project was developed during my Data Science internship at Cognifyz Technologies. The goal was to build a predictive machine learning model to estimate restaurant ratings based on multiple features such as location, cuisines, pricing, and user feedback.
